@@ -14,6 +14,7 @@
     <br />
     <a href="https://docs.google.com/presentation/d/1Nv63b7pC7bpWNTzYF5R01pDb3pab2xCo0zCruKjGU7g/edit#slide=id.g1312c932fbf_2_222"><strong>Explore the docs »</strong></a>
     <br />
+    <a href="https://tenageer-rg.netlify.app/"><strong>Open our project that has been deployed by clicking here »</strong></a>
     <br />
   </p>
 </p>
@@ -133,16 +134,7 @@ SUMMARY:
 - [Answers](#answers)                           ```(6/6) 100%```
 - [Questions](#questions)                       ```(6/6) 100%```
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 There are a total of ```54``` APIs
-=======
-There are a total of ```52``` APIs
->>>>>>> 8098cec33ae82cabd9d6e3390d843bb13908cf71
-
-=======
-There are a total of ```54``` APIs
->>>>>>> 9143c5078cf8f7ff53d7b5aa75983415cfc4f584
 
 ## users
 ------------------------------
